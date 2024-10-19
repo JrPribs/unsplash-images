@@ -23,12 +23,10 @@ This script allows you to fetch images from Unsplash based on a search term and 
    npm install
    ```
 
-4. Create a `.env` file in the root directory and add your Unsplash API credentials:
+4. Create a `.env` file in the root directory and add your Unsplash API credentials. To get an api key [signup free here](https://unsplash.com/developers):
 
    ```
    UNSPLASH_ACCESS_KEY=your_access_key_here
-   UNSPLASH_SECRET_KEY=your_secret_key_here
-   UNSPLASH_APP_ID=your_app_id_here
    ```
 
    Replace `your_access_key_here`, `your_secret_key_here`, and `your_app_id_here` with your actual Unsplash API credentials.
