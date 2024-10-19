@@ -34,3 +34,11 @@ This script allows you to fetch images from Unsplash based on a search term and 
 ## Usage
 
 To run the script, use the following command:
+```
+node ./get-unsplash-images.js
+```
+
+
+![Script Image](script-image.png)
+
+
